@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeaknText</string>
+    <string name="hint">Tap on mic to start</string>
+    <string name="smart_banner">ca-app-pub-8946349072261677/6609689708</string>
+    <string name="huge_banner">ca-app-pub-8946349072261677/1968216047</string>
+    <string name="interstitial_ad">ca-app-pub-8946349072261677/8014749643</string>
+
+</resources>
